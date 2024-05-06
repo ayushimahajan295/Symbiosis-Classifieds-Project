@@ -1,4 +1,4 @@
-# Symbiosis-Classifieds
+# Symbiosis-Classifieds-Project
 Embarking on the adventure of symbiosis student life is exciting, but beyond the first year, challenges like finding housing, and getting essentials from seniors can feel like navigating a maze. 
 The symbiosis classifieds is not just a solution; it's your digital friend, making these challenges more manageable and your college journey more connected. 
 Imagine a platform that understands your needs, bringing housing, rides, and item exchanges all under one virtual roof. In our symbiosis classifieds, powered by MySQL, we've created a user-friendly platform where MySQL's structured data prowess ensures clarity and seamless organization. 
